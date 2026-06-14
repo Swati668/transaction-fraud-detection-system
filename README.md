@@ -9,7 +9,7 @@ The project demonstrates an end-to-end ML workflow covering data preprocessing, 
 # Live Demo
 
 ### Streamlit Dashboard
-[Launch Dashboard](https://swati668-fraud-detection-system-streamlit-appapp-aj3ez4.streamlit.app)
+[Launch Dashboard](https://transaction-fraud-detection-system-bg7vtaisj4tn8vju25ahmm.streamlit.app)
 
 ### Flask API
 [Open API](https://fraud-detection-api-dzc8.onrender.com)
